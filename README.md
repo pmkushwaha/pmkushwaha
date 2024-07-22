@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Mohan Kushawha</h1>
-<h3 align="center">A passionate Full-Stack JAVA developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
  
 ![212749171-b84692a8-2b04-4e3b-93ca-ac14705da224](https://github.com/pmkushwaha/pmkushwaha/assets/108355544/d7dfcbdb-85ed-4e79-89b3-00dd6a31dab8)
 
