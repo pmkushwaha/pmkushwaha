@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="pmkushwaha" /> </p>
 
-- 🔭 I’m currently working on [Open Library Project(Using Java SpringBoots)](https://github.com/pmkushwaha/Open-Library)
+- 🔭 I’m currently working on [Django CRUD (Using Django )](https://github.com/pmkushwaha/Django-CRUD))
 
 - 🌱 I’m currently learning **Spring Boot framework**
 
