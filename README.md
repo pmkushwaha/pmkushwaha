@@ -5,21 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="pmkushwaha" /> </p>
 
-- 🔭 I’m currently working on [CRUD Project (Using Django )](https://github.com/pmkushwaha/Django-CRUD))
+- 🔭 I’m currently working on [Fullstack Project (Using Django+React+JWT)]([https://github.com/pmkushwaha/Django-CRUD)](https://github.com/pmkushwaha/Expanse-Tracker))
 
-- 🌱 I’m currently learning **Spring Boot framework**
+- 🌱 I’m currently learning **fullstack web devlopment**
 
-- 👯 I’m looking to collaborate on **SpringBoots Web Projects**
+- 👯 I’m looking to collaborate on **Django+React (fullstack) projects**
 
-- 🤝 I’m looking for help with **Full-Stack Java devlopment**
+- 🤝 I’m looking for help with **Full-Stack Web devlopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pmkushwaha](https://github.com/pmkushwaha)
 
-- 💬 Ask me about **web devlopmenent And Java and OOPs programming languages**
+- 💬 Ask me about **web devlopmenent And python programming languages**
 
 - 📫 How to reach me **Pmkushwaha02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BQp95PA1nVIPBAmeK3bi9-CcimGsqL-K/view?usp=drivesdk](https://drive.google.com/file/d/1BQp95PA1nVIPBAmeK3bi9-CcimGsqL-K/view?usp=drivesdk)
+ 
 
 - ⚡ Fun fact **"Turning coffee into code: where bugs are features, and debugging is an adventure."**
 
